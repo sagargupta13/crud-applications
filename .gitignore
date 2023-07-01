@@ -8,6 +8,12 @@ package-lock.json
 # testing
 /coverage
 
+#   Dependency directories
+
+node_modules/
+jspm_packages/
+package-lock.json
+
 # production
 /build
 
