@@ -1,39 +1,39 @@
 {
-    "users":[
-        {
-            "id":1,
-            "name":"sagar",
-            "email":"sg12@gmail.com"
-        },
-        {
-            "id":2,
-            "name":"keshav",
-            "email":"kr12@gmail.com"
-        },
-        {
-            "id":3,
-            "name":"ayush",
-            "email":"aj12@gmail.com"
-        },
-        {
-            "id":4, 
-            "name":"payal",
-            "email":"pg12@gmail.com"
-        },
-        {
-            "id":5,
-            "name":"kshitiz",
-            "email":"kp12@gmail.com"
-        },
-        {
-            "id":6,
-            "name":"prashant",
-            "email":"pk12@gmail.com"
-        },
-        {
-            "id":7,
-            "name":"rhythima",
-            "email":"rdii12@gmail.com"
-        }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "name": "Sagar Gupta",
+      "email": "sg12@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "keshav",
+      "email": "kr12@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "ayush",
+      "email": "aj12@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "payal",
+      "email": "pg12@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "prashant",
+      "email": "pk12@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "rhythima",
+      "email": "rdii12@gmail.com"
+    },
+    {
+      "name": "kazim",
+      "email": "mdkazim12@gmail.com",
+      "id": 9
+    }
+  ]
 }
